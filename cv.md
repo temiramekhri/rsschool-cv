@@ -16,3 +16,10 @@ _accountant_
 > **Accountant**  
 Nikora Trade JSC  
 2010-Current | Tbilisi, Georgia  
+
+
+## Education and training:  
+> **Bachelor of Economics and Business**  
+_Tbilisi State University_  
+2006 - 2010  
+
