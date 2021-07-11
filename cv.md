@@ -23,3 +23,12 @@ Nikora Trade JSC
 _Tbilisi State University_  
 2006 - 2010  
 
+## Digital skills:  
+* HTML 5
+* Excel
+* Apex
+* Superfin
+* 1C
+
+## Language:
+English - B2
