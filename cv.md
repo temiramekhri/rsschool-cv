@@ -8,3 +8,11 @@ _accountant_
 * **_Phone:_**  +995 591194066
 * **_Email:_**  tmex24@gmail.com
 * **_Github:_** https://github.com/temiramekhri
+
+
+
+## Work experience:  
+
+> **Accountant**  
+Nikora Trade JSC  
+2010-Current | Tbilisi, Georgia  
